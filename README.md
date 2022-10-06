@@ -21,4 +21,6 @@ Data
 
 To see raw data used for this research, go to 'data' folder
 
+* Null folder: Contains the txt files with the family specific estimates from the null model with 95% conf. intervals at each latitude
+* Actual morphological diversity folder: contains the the txt files with the family-level functional diversity estimate based on morphometric variance calculated using geometric morphometrics. 
 * 
