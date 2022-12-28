@@ -17,7 +17,8 @@ Script definitons:
 
 Data 
 
-To see raw data used for this research, go to 'data' folder
+To see raw data used for this research, go to 'data' folder or to the dryad repository at the following link:
+https://datadryad.org/stash/dataset/doi:10.5061/dryad.37pvmcvpt
 
 * Null folder: Contains the '.txt' files with the family specific estimates from the null model with 95% conf. intervals at each latitude.
 * Actual morphological diversity folder: Contains the '.txt' files with the family-level functional diversity estimate based on geometric morphometric variance. 
