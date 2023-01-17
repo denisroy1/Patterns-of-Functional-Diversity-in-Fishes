@@ -2,7 +2,7 @@
 
 This repository comprises all of the relevant scripts and files for the manuscript titled: 
 Patterns of functional diversity along latitudinal gradients of species richness in eleven fish families
-Authored by: Jonathan Diamond & Denis Roy in press with Global Ecology and Biogeography https://onlinelibrary.wiley.com/journal/14668238.
+Authored by: Jonathan Diamond & Denis Roy in press with Global Ecology and Biogeography http://doi.org/10.1111/geb.13633.
 
 Scripts
 
